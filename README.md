@@ -7,3 +7,7 @@ Public starter used to enable GitHub collaborative coding + CI features for this
 - Branch protection on `main`
 - Auto-assign new issues (GitHub Actions)
 - Continuous integration smoke test (GitHub Actions)
+
+
+Opened via PR to satisfy collaborative-coding checklist.
+
